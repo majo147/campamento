@@ -1,0 +1,66 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color:#0a5a8f ;
+}
+#titulo{
+text-align: center;
+color:#f5f3f3 ;
+}
+
+#descripcion{
+color:#050505  ;
+font-size: 18px;
+}
+#contenedor-1{
+width:100vw;
+height: 700px;
+background-image: url(". /img>/webp);
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#fff;
+}
+
+#menu{
+text-align:center;
+background-color:#1298b9 ;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#fff;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+{
+#contenedor-6{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+width:100vw;
+height: 400px;
+background-color:#590eee;
+color:#fff;
+margin-top: 20px;
+margin-bottom:20px;
+
+#contenedor-8{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+width:100vw;
+height: 400px;
+background-color:#2d63c2 ;
+color:#fff;
+margin-top: 20px;
+margin-bottom:20px;

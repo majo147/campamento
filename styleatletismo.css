@@ -1,0 +1,44 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color:#9a13a7 ;
+}
+#titulo{
+text-align: center;
+color:#f7eded ;
+}
+
+#descripcion{
+color:#f7eeee  ;
+font-size: 18px;
+}
+#contenedor-1{
+<img src="images/dinosaur.jpg" />
+height: 700px;
+background-image: url("./atletismo/portada.jfif");
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#fff;
+}
+#menu{
+text-align:center;
+background-color:#e175fc;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#fff;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+{

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlace a Información de Mesitas del Colegio</title>
+</head>
+<body>
+    <h1>Bienvenido a la Página Principal</h1>
+    <p>Haz clic en el siguiente enlace para obtener información sobre las mesitas del colegio:</p>
+    <a href="pagina-informacion-mesitas.html">Información sobre Mesitas del Colegio</a>
+</body>
+</html>

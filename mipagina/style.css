@@ -1,0 +1,85 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color: #000;
+}
+#titulo{
+text-align:center;
+color:#fff;
+}
+
+#descripcion{
+color:#FAAC58;
+font-size: 18px;
+}
+#contenedor-1{
+width:100vw;
+height: 800px;
+background-image: url("./img/portada.jpg");
+background-repeat:  no-repeat;
+background-size:  cover;
+color:#fff;
+}
+
+#contenedor-2{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+width:100vw;
+height: 400px;
+color:#fff;
+margin-top: 20px;
+margin-bottom:20px;
+}
+
+#contenedor-3{
+width:300px;
+height: 300px;
+background-image: url("./img/campamento.jpg");
+background-repeat:  no-repeat;
+background-size:  cover;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+}
+
+#contenedor-4{
+width:300px;
+height: 300px;
+background-image: url("./img/recreacion.jfif");
+background-repeat:  no-repeat;
+background-size:  cover;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+}
+
+#contenedor-5{
+width:300px;
+height: 300px;
+background-image: url("./img/atletismo.jfif");
+background-repeat:  no-repeat;
+background-size:  cover;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+}
+
+#menu{
+text-align:center;
+background-color:#318F1C;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+font-size:18px;
+}

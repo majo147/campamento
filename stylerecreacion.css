@@ -1,0 +1,45 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color: #3b9ffc;
+}
+#titulo{
+text-align: center;
+color:#fff;
+}
+
+#descripcion{
+color:#fff;
+font-size: 18px;
+}
+#contenedor-1{
+width:100vw;
+height: 700px;
+background-image: url("./img/recreacion.jpg");
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#fff;
+}
+
+#menu{
+text-align:center;
+background-color:#f1ecec;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#111010;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#080808;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+{
